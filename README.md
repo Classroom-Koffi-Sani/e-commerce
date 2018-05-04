@@ -1,6 +1,12 @@
 # e-commerce
 Site de vente en ligne
 
+## Membres du groupe
+- AGBENOU
+- BARANDAO
+- GBESSETO
+- NONDOWOU
+
 ## Objectif
 Nous souhaitons nous doter d'un site d'e-commerce pour la vente d'articles en ligne.
 
